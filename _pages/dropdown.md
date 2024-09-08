@@ -1,16 +1,19 @@
 ---
 layout: page
-title: submenus
+title: Szolgáltatások
 nav: true
-nav_order: 8
+nav_order: 2
 dropdown: true
 children:
-  - title: publications
-    permalink: /publications/
+  - title: Mediáció
+    permalink: /mediacio/
   - title: divider
-  - title: projects
-    permalink: /projects/
+  - title: Mentálhigiénés tanácsadás
+    permalink: /mentalhigienes_tanacsadas/
   - title: divider
-  - title: blog
-    permalink: /blog/
+  - title: Életvezetési tanácsadás
+    permalink: /eletvezetesi_tanacsadas/
+  - title: divider
+  - title: Iskolai konfliktuskezelés
+    permalink: /iskolai_konfliktuskezeles/
 ---
