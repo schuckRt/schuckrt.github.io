@@ -7,17 +7,17 @@ description:
 
 <div class="container">
   <div class="row">
-    <div class="col-md-6 ml-n3">
+    <div class="col-md-7 ml-n3">
 <p style="font-size:20px"><b>Mit értünk ezen tanácsadási forma alatt?</b></p>
 
 Mindannyiunk életében vannak olyan <b>magánéleti elakadások, kapcsolati problémák, konfliktusok,</b> amelyeket <b>támogatással </b>sokkal könnyebben tudunk <b>megoldani,</b> mint egyes egyedül. Amennyiben sikerül ezeket kezelnünk, akkor visszatérhetünk az elégedett, nyugodt hétköznapokhoz és koncentrálhatunk a minket energiával feltöltő, kellemes helyzetekre.
     </div>
-    <div class="col-md-6 text-center">
+    <div class="col-md-5 text-center mt-1">
       {% include figure.liquid path="assets/img/eletvezetes2.jpg" title="Illusztráció 2" class="img-fluid rounded z-depth-1" %}
     </div>
   </div>
 </div>
-
+<br>
 <b>A segítő beszélgetés egy hatékony, mélyebb kommunikációs forma.</b> Olyan párbeszéd, amelyben tudatosulnak a <b>segítséget</b> kérő érzései, egyre jobban fogja látni önmagát és ezáltal környezetét is. Megtalálja saját <b>megoldásait</b> az eddig nehezebb élethelyzetekre vonatkoztatva.
 <br><br>
 <p style="font-size:20px"><b>Mi történik a segítő beszélgetés alkalmával?</b></p>

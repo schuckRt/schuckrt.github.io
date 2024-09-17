@@ -20,7 +20,7 @@ A <b>mentálhigiéné</b>, magyarul <b>„lelki egészség”</b> fogalma a kieg
     </div>
   </div>
 </div>
-
+<br>
 <p style="font-size:20px"><b>Hogyan is segíthetek szakemberként neked ezen a területen?</b></p>
 
 A <b>mentálhigiénés konzultáció</b> egy olyan <b>segítő beszélgetési forma</b>, amely a <b>mentális egészséged</b> fenntartására és a mindennapi életed során felmerülő <b>problémák</b> kezelésére fókuszál.
