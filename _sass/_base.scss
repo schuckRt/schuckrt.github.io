@@ -59,11 +59,46 @@ table.table a {
   }
 }
 
-.table-dark {
+.table-dark, .table-light {
+  color: var(--global-text-color);
+  background-color: transparent;
+
+  &.table-hover tbody tr:hover {
+    color: var(--global-theme-color);
+    background-color: var(--global-hover-text-color);
+  }
+
+  /* Hovering on a <td> without rowspan should highlight the entire tbody */
+  tbody:has(td[rowspan]:hover) td {
+    background-color: var(--global-hover-text-color);
+  }
+
+  /* Hovering on a <td> WITH rowspan, just that row should be highlighted */
+  tr:has(td:not([rowspan]):hover) {
+    background-color: var(--global-hover-text-color);
+  }
+
+  /* The rowspan columns should be highlighted if non-rowspan columns are hovered */
+  tbody:has(td:not([rowspan]):hover) td[rowspan] {
+    background-color: var(--global-hover-text-color);
+  }
+
+  &.table-bordered {
+    border: 1px solid var(--global-divider-color) !important;
+  }
+  /*
+  color: var(--global-text-color);
+
+  &.table-hover tbody tr:hover {
+    color: var(--global-theme-color);
+    background-color: var(--global-hover-text-color);
+  }
+
   background-color: transparent;
   &.table-bordered {
     border: 1px solid var(--global-divider-color) !important;
   }
+  */
 }
 
 blockquote {

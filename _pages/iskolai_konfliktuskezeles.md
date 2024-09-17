@@ -5,21 +5,32 @@ title: Iskolai konfliktuskezelés
 description: 
 ---
 
-Az iskola rendkívül fontos szerepet tölt be az emberek életében. Valakinek munkahelyként, valakinek <b>szocializációs színtérként.</b> Valakinek egy meghatározó életszakaszt jelent, valakinek pedig egy nehéz időintervallumot az életében. Egy biztos, hogy fontos feladata van a <b>személyiség formálásában és annak fejlesztésében.</b> Szerepe, feladata az utóbbi évtizedekben lényeges változásokon ment át. Egyaránt társadalmi, nevelési és pedagógiai intézmény is. Az iskola család után a legfontosabb <b>szocializációs színtér.</b>
-<br><br>
-Az iskolai élet <u><b>legfőbb</b></u> szereplői első sorban <b>a diákok, a tanárok és a szülők.</b> Mivel mindhárom ,,szereplő” más- más életszakaszon megy át, vagy hozzávetve éppen más- más problémával küzd meg az életében (magánéleti, szakmai, szocializációs), így az iskolában is minden érintett és érdekelt fél között <b>konfliktusok jöhetnek létre.</b>
-<br><br>
-A kisebb konfliktusok a tanulók mindennapjainak részei (ezek lehetnek pl.: „beszólogatás”, „oltás”, „gúnyolódás”), amelyek kirobbanásukat követően hamar el is csitulhatnak. A megkérdezett diákok ezeket az eseteket nem is tartják <b>konfliktusnak,</b> ezekről, mint az iskolai hétköznapok természetes velejáróiról számolnak be. Itt nem szabad elsiklanunk afelett azonban, hogy a megkérdezettek mit értelmeznek súlyos konfliktusnak, és közben egy- egy eset résztvevője, áldozata <b>hogyan éli meg azt.</b> Tapasztalatom az, hogy a diákok csak nagyon kevés esetben kérnek segítséget konfliktusaik megoldásában a tanároktól, sőt még a szülőktől, így azokról a felnőttek gyakran nem is szereznek tudomást. 
-<br><br>
-Ez ráadásul eddig csak a gyermekek egy kis része volt, azonban nem hanyagolhatjuk el a szülői és a tanári problémák kezelését sem.
-<br><br>
-<b>Mediátorként iskolai konfliktuskezelés felé szakosodtam.</b> Több iskolába is hívtak és jártam is már konfliktuskezelést tartani a különböző szereplők között kisebb és nagyobb csoportokkal dolgozva is. <b>Ezt szülői értekezlet keretein belül, vagy resztoratív (helyreállító) technikákat alkalmazva (pl. kör) csoportokban szoktam megtartani.</b> Azt vallom, hogy a problémákról/ konfliktusokról igenis beszélni kell, ugyanis ha szőnyeg alá söpörjük puskaport, az egyszer robbanni fog. Amennyibe házon belül nem sikerül megoldást találni ezekre a helyzetekre, akkor <b>külsős szakember segítségével,</b> egy ahhoz megteremtett nyugodt légkőrben, úgy, hogy mindenki <b>elmondhassa a saját szemszögét,</b> igenis előrébb lehet lépni és felelősséget vállalva további együttműködéseket lehet elindítani, vagy éppen folytatni.   
-<br><br>
-<div class="row align-items-center">
-    <div class="col-11 mx-auto">
-        {% include figure.liquid path="assets/img/4.jpg" title="Me on the field" class="img-fluid rounded z-depth-1" %}
+<div class="container">
+  <div class="row">
+    <div class="col-md-6 ml-n3">
+<p style="font-size:20px"><b>Mit érthetünk iskolai konfliktusok alatt?</b></p>
+
+<b>A konfliktusok lehetnek „kisebbek” vagy „nagyobbak”.</b> Kisebb konfliktushelyzetek, melyek a tanulók mindennapjainak részei <b>(pl.: „beszólogatás”, „oltás”, „gúnyolódás”)</b> kirobbanásukat követően hamar el is csitulhatnak. A legtöbb diák ezeket az eseteket nem is tartja konfliktusnak. Ezekről, mint az iskolai hétköznapok természetes velejáróiról számolnak be. Aki azonban <b>sértettként</b> szenved el hasonló helyzeteket, egy <b>nagyon nehéz időszakot is élhet meg</b> éppen, mely, „mélyebbre is viheti” azt a személyt lelkileg.
     </div>
+    <div class="col-md-6 text-center mt-3">
+      {% include figure.liquid path="assets/img/iskolai1.jpeg" title="Illusztráció 1" class="img-fluid rounded z-depth-1" %}
+    </div>
+  </div>
 </div>
-<div class="caption">
-    Helytartó szöveg
+<br>
+Ha nagyobb konfliktushelyzetről beszélünk, megemlíthetjük például a szülők közötti feszültséggel teli eszkalálódott kommunikációt. Ilyen szituációban is van szülő, aki szerint „minden rendben van” és van, aki szerint a helyzet már- már tarthatatlan és elviselhetetlen.
+<br><br>
+<p style="font-size:20px"><b>Egy biztos!</b></p>
+
+<b>Nem szabad elsiklanunk afelett, hogy akik benne vannak ilyen helyzetekben, mit is értelmeznek súlyos konfliktusnak, és közben egy- egy eset résztvevője, áldozata hogyan éli meg azt.</b> Tapasztalatom az, hogy a <b>diákok</b> csak nagyon <b>kevés esetben kérnek segítséget</b> konfliktusaik megoldásában a tanároktól, ide értve a szülőket is, így a problémákról a felnőttek gyakran nem is szereznek tudomást. Ennek több oka is lehet, ezzel azonban foglalkozni kell. Hozzáteszem, hogy nem hanyagolhatjuk el természetesen a szülőknek és a tanárok problémáinak és konfliktusainak kezelését sem.
+<br><br>
+<p style="font-size:20px"><b>Hogyan tudok külsős szakemberként segíteni ilyen helyzetekben?</b></p>
+
+<b>Mediátorként</b> iskolai konfliktuskezelés felé is szakosodtam, <b>több iskolában is jártam már konfliktuskezelést tartani</b> a különböző szereplők között kisebb és nagyobb csoportokkal dolgozva egyaránt. Ezeket az alkalmakat <b>szülői értekezletek keretein belül, vagy resztoratív (helyreállító) technikákat alkalmazva</b> (pl. kör) csoportokban szoktam megtartani. Azt vallom, hogy a problémákról / konfliktusokról igenis beszélni kell, ugyanis <b>ha szőnyeg alá söpörjük a puskaport, az egyszer robbanni fog. Amennyiben</b> házon belül <b>nem sikerül megoldást találni</b> ezekre a helyzetekre, akkor <b>külsős szakember segítségével</b>, egy ahhoz megteremtett nyugodt légkőrben, úgy, hogy mindenki elmondhassa a saját szemszögét, <b>igenis előrébb lehet lépni</b> és felelősséget vállalva további együttműködéseket lehet elindítani, vagy éppen folytatni.
+<br><br>
+
+<div class="row align-items-center">
+    <div class="col-10 mx-auto">
+        {% include figure.liquid path="assets/img/iskolai2.png" title="Illusztráció 2" class="img-fluid rounded z-depth-1" %}
+    </div>
 </div>

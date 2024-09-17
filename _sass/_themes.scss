@@ -3,13 +3,13 @@
  ******************************************************************************/
 
 :root {
-  --global-bg-color: #{$gyurcibg-color};
+  --global-bg-color: #{$gyurci-bg-color};
   --global-code-bg-color: #{$code-bg-color-light};
   --global-text-color: #{$black-color};
   --global-text-color-light: #{$grey-color};
-  --global-theme-color: #{$gyurcihl-color};
-  --global-hover-color: #{$gyurcihl-color};
-  --global-hover-text-color: #{$white-color};
+  --global-theme-color: #{$gyurci-hl-color};
+  --global-hover-color: #{$gyurci-hl-color};
+  --global-hover-text-color: #{$light-gyurci-hl-color};
   --global-footer-bg-color: #{$grey-color-dark};
   --global-footer-text-color: #{$grey-color-light};
   --global-footer-link-color: #{$white-color};

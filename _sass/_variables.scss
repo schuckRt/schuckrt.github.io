@@ -17,9 +17,9 @@ $green-color-dark: #009f06 !default;
 $green-color-light: #ddffdd !default;
 $green-color-bright: #11d68b !default;
 $purple-color: #b509ac !default;
-$gyurcibg-color: #fff !default;
-$gyurcihl-color: #8a6006 !default;
-$light-gyurcihl-color: lighten($gyurcihl-color, 25%);
+$gyurci-bg-color: #fff !default;
+$gyurci-hl-color: #8a6006 !default;
+$light-gyurci-hl-color: lighten($gyurci-hl-color, 25%);
 $pink-color: #f92080 !default;
 $pink-color-light: #ffdddd !default;
 $yellow-color: #efcc00 !default;
@@ -34,7 +34,7 @@ $black-color: #000000 !default;
 
 // Theme colors
 
-$code-bg-color-light: rgba($gyurcihl-color, 0.05);
+$code-bg-color-light: rgba($gyurci-hl-color, 0.05);
 $code-bg-color-dark: #2c3237 !default;
 
 // Font awesome location
