@@ -10,7 +10,7 @@ description:
     <div class="col-md-7 ml-n3">
 <p style="font-size:20px"><b>Mit értünk ezen tanácsadási forma alatt?</b></p>
 
-Mindannyiunk életében vannak olyan <b>magánéleti elakadások, kapcsolati problémák, konfliktusok,</b> amelyeket <b>támogatással </b>sokkal könnyebben tudunk <b>megoldani,</b> mint egyes egyedül. Amennyiben sikerül ezeket kezelnünk, akkor visszatérhetünk az elégedett, nyugodt hétköznapokhoz és koncentrálhatunk a minket energiával feltöltő, kellemes helyzetekre.
+Mindannyiunk életében vannak olyan magánéleti <b>elakadások</b>, kapcsolati <b>problémák</b>, <b>konfliktusok</b>, amelyeket támogatással sokkal könnyebben tudunk <b>megoldani,</b> mint egyes egyedül. Amennyiben sikerül ezeket kezelnünk, akkor visszatérhetünk az elégedett, nyugodt hétköznapokhoz és koncentrálhatunk a minket energiával feltöltő, kellemes helyzetekre.
     </div>
     <div class="col-md-5 text-center mt-1">
       {% include figure.liquid path="assets/img/eletvezetes2.jpg" title="Illusztráció 2" class="img-fluid rounded z-depth-1" %}
@@ -18,16 +18,14 @@ Mindannyiunk életében vannak olyan <b>magánéleti elakadások, kapcsolati pro
   </div>
 </div>
 <br>
-<b>A segítő beszélgetés egy hatékony, mélyebb kommunikációs forma.</b> Olyan párbeszéd, amelyben tudatosulnak a <b>segítséget</b> kérő érzései, egyre jobban fogja látni önmagát és ezáltal környezetét is. Megtalálja saját <b>megoldásait</b> az eddig nehezebb élethelyzetekre vonatkoztatva.
+<b>A segítő beszélgetés</b> egy hatékony, mélyebb kommunikációs forma. Olyan párbeszéd, amelyben tudatosulnak a segítséget kérő érzései, egyre jobban fogja látni önmagát és ezáltal környezetét is. Megtalálja saját megoldásait az eddig nehezebb élethelyzetekre vonatkoztatva.
 <br><br>
 <p style="font-size:20px"><b>Mi történik a segítő beszélgetés alkalmával?</b></p>
-
-A beszélgetések alkalmával, olyan helyzetek <b>megoldásában</b> tudok neked <b>segítséget nyújtani,</b> amelyekben a <b>cél, hogy képes legyél túljutni az akadályozott állapotodon, át tudd csoportosítani személyiséged erőforrásait a megfelelő helyre, pozitív értelemben elfogadd önmagad és így hatékonyabban tudd követni kitűzött céljaidat.</b>
+A beszélgetések alkalmával, olyan helyzetek megoldásában kaphatsz segítséget, amelyekben a cél, hogy képes legyél túljutni az akadályozott állapotodon, át tudd csoportosítani személyiséged erőforrásait a megfelelő helyre, pozitív értelemben elfogadd önmagad és így hatékonyabban tudd követni kitűzött céljaidat
 <br><br>
-<span style="font-size:20px;font-weight:bolder"><b>Keress bátran,</b></span> ha úgy érzed, hogy az életed egy ponton <b>elakadt,</b> esetleg egyhelyben topogsz és nem tudod merre kellene tovább indulnod. Közösen kijelöljük a <b>következő célokat</b> és együtt dolgozhatunk az oda vezető úton is.
-Beszélgetéseink hatására lehetővé válhat számodra is egy <span style="font-size:20px;font-weight:bolder"><b>megoldásfókuszú szemléletmód</b></span> az adott problémák kezelésére.
+<b>Keress bátran</b>, ha úgy érzed, hogy az életed egy ponton <b>elakadt</b>, esetleg egyhelyben topogsz és nem tudod merre kellene tovább indulnod. Kijelöljük a következő célokat és dolgozunk az oda vezető úton is. Beszélgetéseink hatására lehetővé válhat számodra is egy megoldásfókuszú szemléletmód az adott problémák kezelésére.
 <br><br>
-A tanácsadás keretein belül – egyéni bejelentkezés alapján – lehetőség nyílik online és személyes konzultációra is. (lásd.: Kapcsolat)
+A tanácsadás keretein belül – egyéni bejelentkezés alapján – lehetőség nyílik online és személyes konzultációra is. Érdeklődj az <a href="{{ '/kapcsolat/' | relative_url}}">elérhetőségeimen</a>.
 <br><br>
 
 <div class="row align-items-center">

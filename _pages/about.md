@@ -14,46 +14,42 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 <br>
-<p style="font-size:30px"><b>Üdvözöllek az oldalamon! </b></p>
-Schuckert György (Gyurci) vagyok, Szociálpedagógus és Mediátor.
-<br><br>
-Az alábbiakban szeretném röviden-tömören elmesélni személyes történetemet és motivációimat, hogy egy kicsit bemutatkozzak neked/nektek.
-<br><br>
-Tanulmányaimat a Pázmány Péter Katolikus Egyetemen végeztem a <b>Szociálpedagógia</b> szakon (PPKE BTK). 
-Az egyetemi képzésben az elméleti oktatás mellett a gyakorlati oktatásra is hatalmas hangsúlyt fektettek, így ott kaptam meg az alapokat. Emellett nagyon tetszett az, hogy a <b>Szociálpedagógia</b> által olyan sajátos technikákat módszereket és elméleteket ismerhettem meg, melyek nem a kötöttségekről szólnak, hanem inkább működési elveik és munkamódszereik alapján mutatnak meg új utakat az ember életében. <b>Ezek a sajátos technikák elsősorban az egyéni készségek és képességek fejlesztésére irányuló empowerment (képessé tevés) és a szociális fejlesztés, amelyeket én is vallok. </b>
-<br><br>
-<p style="font-size:20px"><b>Hogy miért ezt az utat választottam?</b></p> 
-Mert megtaláltam benne önmagamat. Éreztem azt, hogy a ,,segítő szakmában” szeretnék elhelyezkedni munkavállalóként. Kiskorom óta fontosak számomra az emberek, közösségi embernek tartom magam.  Úgy gondolom, hogy nem véletlen, hogy az élet erre a pályára terelt, mivel számomra mindig is fontos szempont volt a körülöttem élő gyermekek és felnőttek mentális, fizikai állapota és szociális jólléte, így érdeklődésemet és motivációmat is a munkámból merítem.
-Egyetemi éveim alatt viszonylag hamar eldöntöttem, mivel is szeretnék foglalkozni a jövőben. Tanulmányaim mellett elkezdtem dolgozni <b>családsegítőként</b> Család és Gyermekjóléti Szolgálatnál, néhány évvel később pedig <b>esetmenedzserként</b> Család és Gyermekjóléti Központban. Amellett, hogy rengeteg élettapasztalatot gyűjtöttem, nagyon sokat tanultam az elmélet mellett a gyakorlatiságról is az évek alatt mentoraim által.
-<br><br>
-<b>Munkám alatt szociális, életvezetési és/ vagy mentálhigiénés problémák, illetve egyéb krízishelyzetek miatt segítségre szoruló személyek, családok számára az ilyen helyzetekhez vezető okok megelőzésében, a krízishelyzetek megszüntetésében, valamint az életvezetési képességek megőrzésében nyújtok segítséget.</b>
-<br><br>
-Időközben <b>Mediátor</b> képesítést szereztem és azon belül még <b>iskolai konfliktuskezelés</b> felé is szakosodtam, jelenleg pedig szakmai vezetőként dolgozom egy Család és Gyermekjóléti Szolgálatnál.
-Szakemberként olyan kamaszok, fiatal felnőttek, felnőttek vagy családok keresnek meg, akik valamilyen krízishelyzetben, életválságban vannak, vagy egyszerűen csak azt érzik: <b>“valami nem jó”. Úgy gondolom, hogy ha valaki képes segítséget kérni, az az első lépcsőfok a pozitív fejlődésre.</b>
-Leginkább a kamasz fiatalokkal való foglalkozás a legfőbb erősségem, azonban korosztálytól függetlenül foglalkozom a klienseimmel legyen fiatal, vagy felnőtt.
+<p style="font-size:30px"><b>Kedves Látogató! </b></p>
 
-<p style="font-size:20px"><b>Amit ígérek: </b></p>
-- <b>Teljes mértékű titoktartás.</b>
-- <b>Te leszel a közzéppontban, rád fogunk figyelni.</b>
-- <b>A te erőforrásaidnak és szükségleteidnek a feltárása és annak megfelelő alkalmazása az elsődleges.</b>
-- <b>A te fejlődésed lesz elsődlegesen kiemelve.</b>
 
-<p style="font-size:20px"><b>Amit tudnod kell:</b></p>
-- <b>Munka nélkül lesz változás.</b>
+<i>Légy szeretettel üdvözölve</i> <b>Schuckert György (Gyurci)</b> Szociálpedagógus és akkreditált mediátor hivatalos honlapján! Jó helyen jársz, amennyiben szakmai segítségre és/vagy támogatásra van szükséged!
+<br><br>
+<i>Engedd meg</i>, hogy mindenekelőtt azok a legfontosabb tudnivalók és személyes információk kapjanak helyet, amelyek alapot szolgáltatnak a jövőbeni közös munkánk során.
+<br><br>
+A Pázmány Péter Katolikus Egyetem Szociálpedagógia szak elvégzése biztosított olyan elméleti és gyakorlati tudást, mellyel kellőképpen meg lett alapozva az a felkészültség, amely szükséges a mindennapok szakmai kihívásaihoz. <b>Olyan speciális technikákat, módszereket és elméleteket</b> sikerült alaposan elsajátítani, melyek nem kötöttségekről szólnak, hanem inkább <b>működési elveik és munkamódszereik</b> alapján mutatnak meg új utakat az életben. <b>Ezek a technikák elsősorban az egyéni készségek és képességek fejlesztésére irányuló empowerment (képessé tevés) és a szociális fejlesztés, amelyek bizonyítottan érdemi segítséget jelentenek.</b>
 
-<p style="font-size:20px"><b>Néhány példa, amiben segítséget tudok nyújtani:</b></p>
-- Kommunikáció és konfliktuskezelés fejlesztése
-- Önismeret fejlesztése, mélyítése
-- Stresszkezelés és belső erőforrások mozgósítása
+
+
+<p style="font-size:20px"><b>Személyes motivációk, amik érdekesek lehetnek Számodra</b></p>
+Ha bárki kérdezte volna, hogy <i>„Mi leszel, ha nagy leszel?”</i>, akkor egy önbizalommal teli választ hallott volna: <i>„Segítő!”</i> Ez az a szakma, ez az a hivatás, ahol sikerült megtalálni az <b>önmegvalósítást</b>. Felemelő érzés látni, hogy egy-egy strukturált szakmai beszélgetés milyen mértékben képes segítségére lenni azoknak, akik belevágnak az <b>letfeladataik megoldásába</b>. Már az egyetemi évek alatt, még a tanulmányok befejezése előtt kínáltak lehetőséget <b><i>Családsegítő</i></b>ként munkát vállalni a Család és Gyermekjóléti Szolgálatnál, majd <b><i>Esetmenedzser</i></b>ként a Család és Gyermekjóléti Központban. Korán szembesített az élet a mai <b>társadalmi problémákkal</b>, ami mindig összetettebb a tankönyvi leckéknél, ezért az egyetemi Oklevél megszerzése után, a még alaposabb felkészültség érdekében <b>akkreditált Mediátor</b> végzettséggel, azon belül is <b>iskolai konfliktuskezelés</b> továbbképzéssel sikerült magasabb szintre emelni a naprakész szakmai kvalitást/kompetenciákat.
+<br><br>
+A mindennapokban kamaszok, fiatalok, felnőttek és családok keresnek, akik tenni akarnak magukért, a dolgaikért, a személyes boldogulásukért. Szakértői támogatással könnyebben és gyorsabban fel- és megoldhatóak azok a <b>kihívások</b>, melyekkel találkozunk. Bátorság csak a megoldásokhoz szükséges, ahhoz nem, hogy segítséget kérj! <b>Nem maradsz egyedül a nehézségekkel, csak szólnod kell!</b>
+
+
+<p style="font-size:20px"><b>Keress bizalommal, ha az alábbi területeken érzel fejleszthető pontokat:</b></p>
+- Konfliktusok kezelése, legyen szó akár érzelmi-, érdek- vagy értékkonfliktusról
+- Önismeretfejlesztés
+- Belső erőforrások mozgósítása
 - Egészséges önértékelés kialakítása
-- Párkapcsolati/ családi kihívások, nehézségek (szülők, szülő-gyerek)
-- <a href="{{ '/eletvezetesi_tanacsadas/' | relative_url}}">Életvezetési nehézségek</a>, <a href="{{ '/iskolai_konfliktuskezeles/' | relative_url}}">iskolai problémák</a>, hétköznapi elakadások
+- Párkapcsolati/ családi kihívások, elakadások
+- <a href="{{ '/eletvezetesi_tanacsadas/' | relative_url}}">Életvezetési nehézségek</a>, <a href="{{ '/iskolai_konfliktuskezeles/' | relative_url}}">iskolai problémák</a>
 - Szorongások, félelmek enyhítése
 - Fiatal felnőttkor nehézségei (pl.: kapunyitási krízis, önállósodás, útkeresés)
-- Döntési nehézségek (változtatás)
-- Életszakasz változások
-- Személyes fejlődés kérdései
-- Kommunikációs problémák kezelése (családdal, munkahelyen belül)
-- Munka-magánélet konfliktusai
-- Magány, egyedüllét nehézségei
-- Párkapcsolati/ családi kihívások, nehézségek (pl.: szülők, szülő-gyerek között)
+- (Én)hatékonyság fejlesztése
+- Munka-magánélet egyensúly felborulása
+
+
+<p style="font-size:20px"><b>Amire biztosan számíthatsz a közös munka során:</b></p>
+- Teljes mértékű titoktartás.
+- Te leszel a középpontban.
+- A Te erőforrásaidnak és szükségleteidnek a feltárása és annak megfelelő alkalmazása az elsődleges.
+- És mondani sem kell: <b>a Te fejlődésed a legfontosabb cél!</b>
+
+
+<p style="font-size:20px"><b>Mikor lehet mondani, hogy eredményes volt a közös munka?</b></p>
+Ezt egyedül <b>Te</b>, mint leendő ügyfél tudod majd megmondani, hogy mennyire érzékeled a változásokat az életben, a mindennapokban. Arra garanciát kapsz, hogy ha Te beleteszed a saját részed az önfejlesztő munkába, <b>akkor a kitartó munka meghozza a gyümölcsét!</b> Természetesen ketten felelünk az eredményekért, ha az én munkásságomról kérnél referenciát, akkor az alábbi <a href="{{ '/kapcsolat/' | relative_url}}">elérhetőségeken</a> megteheted!

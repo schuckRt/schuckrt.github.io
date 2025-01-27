@@ -21,13 +21,12 @@ A <b>mentálhigiéné</b>, magyarul <b>„lelki egészség”</b> fogalma a kieg
   </div>
 </div>
 <br>
-<p style="font-size:20px"><b>Hogyan is segíthetek szakemberként neked ezen a területen?</b></p>
-
+<p style="font-size:20px"><b>Hogyan is kaphatsz szakmai segítséget ezen a területen?</b></p>
 A <b>mentálhigiénés konzultáció</b> egy olyan <b>segítő beszélgetési forma</b>, amely a <b>mentális egészséged</b> fenntartására és a mindennapi életed során felmerülő <b>problémák</b> kezelésére fókuszál.
 <br><br> 
 A foglalkozás során saját <b>erőforrásaidra</b> támaszkodva tűzöd ki a <b>céljaidat</b> és indulsz el a feléjük vezető úton. <b>Én kísérlek és a legjobb szakmai tudásommal támogatlak téged az utadon.</b> Beszélgetünk sok mindenről, leginkább arról, ami <b>veled és a környezetedben történik</b>, illetve arról, ami <b>téged foglalkoztat.</b> Ezek az <b>erőforrásaid</b> támogató környezetben <b>felszabadulhatnak és pozitívan hathatnak.</b> Mindannyian magunkban hordjuk a <b>változás, a fejlődés lehetőségét</b> és kellő <b>önismeret</b> tükrében <b>fejleszthetjük</b> a velünk született <b>problémamegoldó</b> készségeinket és felszínre hozhatjuk rejtett <b>erőtartalékainkat.</b>
 <br><br>
-A mentálhigiénés tanácsadás keretein belül – egyéni bejelentkezés alapján – lehetőség nyílik online és személyes konzultációra is. (lásd.: Kapcsolat)
+A mentálhigiénés tanácsadás keretein belül – egyéni bejelentkezés alapján – lehetőség nyílik online és személyes konzultációra is. Érdeklődj az <a href="{{ '/kapcsolat/' | relative_url}}">elérhetőségeimen</a>.
 <br><br>
 
 <div class="row align-items-center">
